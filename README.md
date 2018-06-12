@@ -8,6 +8,7 @@ learning group material
     * zoom.us
   * REPL/IDE pair support?
   * tmux/terminal?
+  * something 4 roadmap planning/grooming? (trello, 
 * Goals
   * toolbox -> TBD!
 * Usual Agenda
