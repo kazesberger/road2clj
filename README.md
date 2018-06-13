@@ -7,6 +7,7 @@ learning group material
   * screen sharing: 
     * zoom.us
   * REPL/IDE pair support?
+     * [reptile-ui](https://github.com/raymcdermott/reptile-tongue)
   * tmux/terminal?
   * something 4 roadmap planning/grooming? (trello, 
 * Goals
